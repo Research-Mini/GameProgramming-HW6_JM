@@ -47,7 +47,7 @@ Game programming class HW6 Repository.
 
 ### Ambient Sound
 - https://pixabay.com/ko/sound-effects/crackling-fireplace-nature-sounds-8012/ 
-- Sound Effects
+### Sound Effects
 - https://pixabay.com/ko/sound-effects/lighting-a-fire-14421/ 
 - https://pixabay.com/ko/sound-effects/bones-2-88481/ 
 - https://pixabay.com/ko/sound-effects/bone-crack-121580/ 
